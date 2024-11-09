@@ -4,7 +4,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/smnmsr/de-simon-wird-driisgi?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/smnmsr/de-simon-wird-driisgi?style=social)
-![GitHub issues](https://img.shields.io/github/issues/smnmsr/sde-simon-wird-driisgi)
+![GitHub issues](https://img.shields.io/github/issues/smnmsr/de-simon-wird-driisgi)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/smnmsr/de-simon-wird-driisgi)
 ![GitHub](https://img.shields.io/github/license/smnmsr/de-simon-wird-driisgi)
 
