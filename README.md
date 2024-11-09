@@ -1,66 +1,85 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![Simon's 30th Birthday Bash](./banner.jpeg)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# 🎉 Simon's 30th Birthday Bash - Website 🎉
 
-## About Laravel
+![GitHub stars](https://img.shields.io/github/stars/smnmsr/de-simon-wird-driisgi?style=social)
+![GitHub forks](https://img.shields.io/github/forks/smnmsr/de-simon-wird-driisgi?style=social)
+![GitHub issues](https://img.shields.io/github/issues/smnmsr/sde-simon-wird-driisgi)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/smnmsr/de-simon-wird-driisgi)
+![GitHub](https://img.shields.io/github/license/smnmsr/de-simon-wird-driisgi)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### Welcome, fellow humans (or bots)!
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+This is the glorious, absolutely necessary website for **Simon’s 30th Birthday**! If you're here, you’re either:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- 🎟️ Looking to register and claim your spot at the coolest event of the year, or
+- 🤓 Just curious about the tech stack that makes this all possible.
 
-## Learning Laravel
+Forget world-changing features or cutting-edge AI. This site is just for **registration** and **event information**. But
+hey, it’s all about the journey, right? And the cake. 🍰 Definitely the cake.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### Tech Stack ⚙️
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **Laravel**: Because nothing says "smooth sailing" quite like an expressive and elegant syntax that makes PHP look
+  good. 🌊
+- **Laravel Livewire (with Volt)** ⚡: Yes, Volt, because my birthday site needs to be electrifyingly reactive (pun
+  intended).
+- **Flux (Livewire Component)**: Bringing the flux into this occasion. No flux capacitors, but it does keep things
+  futuristic. 🚀
+- **Tailwind CSS**: Styling this site like a pro without writing CSS from scratch. Who has time for that? 💅
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### 💥 WordArt Magic 💥
 
-### Premium Partners
+A huge shout-out to the [CSS3 WordArt](https://github.com/arizzitano/css3wordart) repo! 🎨 The retro WordArt fonts add
+that perfect 90s touch that every 30th birthday site deserves. Thanks to their awesome work, we’re bringing those
+WordArt vibes back, one flashy headline at a time. ✨
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+---
 
-## Contributing
+### FAQ (Foolishly Asked Questions) 🤔
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- **Why Laravel?** \
+  🍂 Because if it's good enough to build the web’s coolest apps, it’s definitely good enough for the coolest
+  30-year-old.
 
-## Code of Conduct
+- **Is this website open-source?** \
+  🍰 Nope, but if you want the cake recipe, I might share that.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- **Can I contribute?** \
+  🍻 Only if you bring snacks. Or drinks. Preferably both.
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### 📚 Documentation and All That Serious Stuff
 
-## License
+If you absolutely must know how Laravel works, please visit the
+official [Laravel Documentation](https://laravel.com/docs). They have all the serious things you could ever want to
+know, like routes, controllers, and why PHP isn’t dead yet.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Or, sit back and binge-watch [Laracasts](https://laracasts.com), where they make PHP, Laravel, and JavaScript feel like
+a blockbuster series. 🍿
+
+---
+
+### License 📝
+
+This masterpiece of a registration form is open to anyone who wants to attend the event. Otherwise, all rights reserved
+to **Simon’s right to celebrate his 30th in peace and great company.**
+
+---
+
+### MIT License
+
+This project is licensed under the MIT License. For more legalese details, please
+see [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+### P.S.
+
+🎂 Remember: Bring yourself, bring good vibes, and bring an appetite for cake. Laravel handles the backend, but **you**
+make the front-end of the party!
