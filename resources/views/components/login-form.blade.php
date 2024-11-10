@@ -100,31 +100,29 @@ new class extends Component {
 
 ?>
 
-@if(!auth()->check())
-    <div class="text-left flex flex-col space-y-sm max-w-96 mx-auto pt-md">
-        @if($login_stage === 1)
-            <flux:input
-                wire:model="name"
-                label="Diin Name"
-                type="text"
-                placeholder="zum Biispil 'Simon'"
-            />
-            <flux:input
-                wire:model="password"
-                label="Letschti vier Zahle vo dinere Natelnummere"
-                type="text"
-                placeholder="zum Biispil '1234'"
-                mask="9999"
-            />
-        @elseif($login_stage === 2)
-            <flux:input
-                wire:model="two_factor_code"
-                label="SMS Code"
-                type="text"
-                placeholder="zum Biispil '123456'"
-                mask="999999"
-            />
-        @endif
-        <flux:button wire:click="login" class="mt-md">Ilogge</flux:button>
-    </div>
-@endif
+
+<div class="text-left flex flex-col space-y-sm max-w-96 mx-auto pt-md">
+    <flux:input
+        wire:model="name"
+        label="Diin Name"
+        type="text"
+        placeholder="zum Biispil 'Simon'"
+    />
+    <flux:input
+        wire:model="password"
+        label="Letschti vier Zahle vo dinere Natelnummere"
+        type="text"
+        placeholder="zum Biispil '1234'"
+        mask="9999"
+    />
+    @if($login_stage === 2)
+        <flux:input
+            wire:model="two_factor_code"
+            label="SMS Code"
+            type="text"
+            placeholder="zum Biispil '123456'"
+            mask="999999"
+        />
+    @endif
+    <flux:button wire:click="login" class="mt-md">Ilogge</flux:button>
+</div>
