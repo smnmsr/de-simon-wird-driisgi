@@ -32,7 +32,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 
-<body class="h-full w-full bg-amber-50 dark:bg-stone-900 text-gray-900 dark:text-gray-100">
+<body class="h-full w-full bg-amber-50 dark:bg-slate-800 text-gray-900 dark:text-gray-100">
 @fluxScripts
 @yield('body')
 </body>

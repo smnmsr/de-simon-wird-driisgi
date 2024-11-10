@@ -15,9 +15,7 @@
                 Quellcode
             </a>
             @if(auth()->check() && auth()->user()->id === 1)
-                <a
-                    href="{{ route('admin.dashboard') }}"
-                >
+                <a>
                     Admin
                 </a>
             @endif
