@@ -1,5 +1,6 @@
 @tailwind base;
 @tailwind components;
+@tailwind utilities;
 
 /*
  * The following components are completely based on the work of @arizzitano
@@ -902,4 +903,29 @@
     }
 }
 
-@tailwind utilities;
+@layer base {
+    @font-face {
+        font-family: my_comicsans;
+        font-weight: normal;
+        font-style: normal;
+        src: url(../fonts/comicsans_normal.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: my_comicsans;
+        font-weight: bold;
+        font-style: normal;
+        src: url(../fonts/comicsans_bold.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: my_comicsans;
+        font-weight: normal;
+        font-style: italic;
+        src: url(../fonts/comicsans_italic.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: my_comicsans;
+        font-weight: bold;
+        font-style: italic;
+        src: url(../fonts/comicsans_bold_italic.ttf) format("truetype");
+    }
+}

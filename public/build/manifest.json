@@ -1,8 +1,24 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-_tOPVEha.css",
+    "file": "assets/app-Da_oCSqn.css",
     "src": "resources/css/app.css",
     "isEntry": true
+  },
+  "resources/fonts/comicsans_bold.ttf": {
+    "file": "assets/comicsans_bold-CreM9ZAb.ttf",
+    "src": "resources/fonts/comicsans_bold.ttf"
+  },
+  "resources/fonts/comicsans_bold_italic.ttf": {
+    "file": "assets/comicsans_bold_italic-KGxtxEzy.ttf",
+    "src": "resources/fonts/comicsans_bold_italic.ttf"
+  },
+  "resources/fonts/comicsans_italic.ttf": {
+    "file": "assets/comicsans_italic-C08PxIZC.ttf",
+    "src": "resources/fonts/comicsans_italic.ttf"
+  },
+  "resources/fonts/comicsans_normal.ttf": {
+    "file": "assets/comicsans_normal-a7EBdR8x.ttf",
+    "src": "resources/fonts/comicsans_normal.ttf"
   },
   "resources/js/app.js": {
     "file": "assets/app-z-Rg4TxU.js",

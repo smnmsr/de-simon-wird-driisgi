@@ -15,7 +15,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Comic Sans MS', 'Comic Sans', ...defaultTheme.fontFamily.sans],
+                sans: ['ComicSans MS', 'Comic Sans', 'my_comicsans', ...defaultTheme.fontFamily.sans],
             },
             spacing: {
                 xs: "0.75rem",
