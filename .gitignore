@@ -25,3 +25,5 @@ Homestead.json
 /.idea/deployment.xml
 /.idea/sshConfigs.xml
 /.idea/webServers.xml
+
+auth.json
